@@ -1,0 +1,22 @@
+{
+  "name": "fitness-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trujillo-Andrew/sample-fitness-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trujillo-Andrew/sample-fitness-site/issues"
+  },
+  "homepage": "https://github.com/Trujillo-Andrew/sample-fitness-site#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
